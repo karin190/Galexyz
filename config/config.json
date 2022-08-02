@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x78C3AdF8771B6223D3bFf1DA8f8Fa223F00a06E8",
+  "SCAN_LINK": "https://snowtrace.io/address/0x75d103c138f691a9473b9b576c068c8084217f16",
+  "NETWORK": {
+    "NAME": "Avalanche Network",
+    "SYMBOL": "AVAX",
+    "ID": 43114
+  },
+  "NFT_NAME": "Galexyz",
+  "SYMBOL": "GXYZ",
+  "MAX_SUPPLY": 2,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
